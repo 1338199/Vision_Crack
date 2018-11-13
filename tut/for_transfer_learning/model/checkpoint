@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/johnsauhu/PycharmProjects/tut/for_transfer_learning/model/transfer_learn"
+all_model_checkpoint_paths: "/Users/johnsauhu/PycharmProjects/tut/for_transfer_learning/model/transfer_learn"
