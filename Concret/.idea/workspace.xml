@@ -10,44 +10,58 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Concret$PixLen.coverage" NAME="PixLen Coverage Results" MODIFIED="1552572097995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Concret$PixLen.coverage" NAME="PixLen Coverage Results" MODIFIED="1552835027314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Concret$Running.coverage" NAME="Running Coverage Results" MODIFIED="1552835468297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PixLen.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PixLen.py">
+      <file leaf-file-name="Train_CD.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Train_CD.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="354">
+              <caret line="294" column="44" lean-forward="true" selection-start-line="294" selection-start-column="44" selection-end-line="294" selection-end-column="44" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#0#23#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="outfile_1.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Save/outfile_1.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="outfile_2.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Save/outfile_2.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="Train_CD.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Train_CD.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="Running.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Running.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Running.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="423">
+              <caret line="171" column="45" lean-forward="true" selection-start-line="171" selection-start-column="45" selection-end-line="171" selection-end-column="45" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contextlib.py" pinned="false" current-in-tab="false">
+        <entry file="file:///anaconda3/python.app/Contents/lib/python3.6/contextlib.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="89" selection-start-line="89" selection-end-line="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="session.py" pinned="false" current-in-tab="false">
+        <entry file="file:///anaconda3/python.app/Contents/lib/python3.6/site-packages/tensorflow/python/client/session.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="1603" selection-start-line="1603" selection-end-line="1603" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tokenize.py" pinned="false" current-in-tab="false">
+        <entry file="file:///anaconda3/python.app/Contents/lib/python3.6/tokenize.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="451" selection-start-line="451" selection-end-line="451" />
             </state>
           </provider>
         </entry>
@@ -61,10 +75,18 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>predic</find>
+    </findStrings>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Train_CD.py" />
+        <option value="$PROJECT_DIR$/globalvar.py" />
         <option value="$PROJECT_DIR$/PixLen.py" />
+        <option value="$PROJECT_DIR$/Running.py" />
       </list>
     </option>
   </component>
@@ -80,10 +102,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="20" />
-    <option name="y" value="43" />
-    <option name="width" value="1400" />
-    <option name="height" value="757" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -97,11 +117,6 @@
             <path>
               <item name="Concret" type="b2602c69:ProjectViewProjectNode" />
               <item name="Concret" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Concret" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Concret" type="462c0819:PsiDirectoryNode" />
-              <item name="Save" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -128,7 +143,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Running">
     <configuration name="PixLen" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Concret" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,8 +163,32 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="Running" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Concret" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Running.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.PixLen" />
+      <item itemvalue="Python.Running" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Running" />
         <item itemvalue="Python.PixLen" />
       </list>
     </recent_temporary>
@@ -176,9 +215,9 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32900944" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32900944" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24305555" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24305555" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -202,10 +241,83 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="4" />
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="globalVal" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>globalVal</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PixLen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Running.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Train_CD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="43" column="59" selection-start-line="43" selection-start-column="59" selection-end-line="43" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PixLen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Save/outfile_1.jpg" />
+    <entry file="file://$PROJECT_DIR$/Save/outfile_2.jpg" />
+    <entry file="file://$PROJECT_DIR$/Train_CD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Running.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PixLen.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -250,30 +362,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Save/outfile_2.jpg" />
+    <entry file="file://$PROJECT_DIR$/Save/outfile_1.jpg" />
     <entry file="file://$PROJECT_DIR$/Train_CD.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Running.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="354">
+          <caret line="294" column="44" lean-forward="true" selection-start-line="294" selection-start-column="44" selection-end-line="294" selection-end-column="44" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Save/outfile_2.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file:///anaconda3/python.app/Contents/lib/python3.6/tokenize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="451" selection-start-line="451" selection-end-line="451" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Save/outfile_1.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/globalvar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="20" lean-forward="true" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/python.app/Contents/lib/python3.6/site-packages/tensorflow/python/client/session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="1603" selection-start-line="1603" selection-end-line="1603" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/python.app/Contents/lib/python3.6/contextlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PixLen.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="429">
+          <caret line="32" column="103" lean-forward="true" selection-start-line="4" selection-end-line="32" selection-end-column="103" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Running.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="171" column="45" lean-forward="true" selection-start-line="171" selection-start-column="45" selection-end-line="171" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
